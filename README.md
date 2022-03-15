@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KichirouYoshi
-- 👀 I’m interested in Web PRogramming
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning html css javascript
 - 💞️ I’m looking to collaborate on (undefined)
 - 📫 How to reach me (undefined)
